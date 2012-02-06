@@ -4,7 +4,7 @@
   <title><![CDATA[Qrators tech]]></title>
   <link href="http://Qrators.github.com/atom.xml" rel="self"/>
   <link href="http://Qrators.github.com/"/>
-  <updated>2012-02-06T21:59:10+01:00</updated>
+  <updated>2012-02-06T22:09:01+01:00</updated>
   <id>http://Qrators.github.com/</id>
   <author>
     <name><![CDATA[Qrators]]></name>
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://Qrators.github.com/blog/2012/01/16/hello-world/"/>
+    <link href="http://Qrators.github.com/2012/01/16/hello-world/"/>
     <updated>2012-01-16T16:56:00+01:00</updated>
-    <id>http://Qrators.github.com/blog/2012/01/16/hello-world</id>
-    <content type="html"><![CDATA[<p>Here is for all things tech at Qrators</p>
+    <id>http://Qrators.github.com/2012/01/16/hello-world</id>
+    <content type="html"><![CDATA[<p>Here&#8217;s for all things tech at Qrators</p>
 ]]></content>
   </entry>
   
