@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Qrators tech]]></title>
-  <link href="http://Qrators.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Jobs | Qrators tech]]></title>
+  <link href="http://Qrators.github.com/blog/categories/jobs/atom.xml" rel="self"/>
   <link href="http://Qrators.github.com/"/>
   <updated>2012-02-10T12:34:05+01:00</updated>
   <id>http://Qrators.github.com/</id>
@@ -27,18 +27,9 @@ Join the Qrators team to help us build the mobile experience of street art disco
 
 <p><em>Why work at Qrators?</em></p>
 
-<p>You will get to work with nice people in Paris, and you&#8217;ll enjoy the environment of RESTful Ruby and appealing APIs, beside the usual perks.</p>
+<p>You will get to work with nice people in Paris, and you'll enjoy the environment of RESTful Ruby and appealing APIs, beside the usual perks.</p>
 
-<p>Please drop us a line and include some links to the stuff you&#8217;ve built: <a href="mailto:contact@Qrators.com">contact@Qrators.com</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://Qrators.github.com/2012/01/16/hello-world/"/>
-    <updated>2012-01-16T16:56:00+01:00</updated>
-    <id>http://Qrators.github.com/2012/01/16/hello-world</id>
-    <content type="html"><![CDATA[<p>Here&#8217;s for all things tech at Qrators</p>
+<p>Please drop us a line and include some links to the stuff you've built: <a href="mailto:contact@Qrators.com">contact@Qrators.com</a>.</p>
 ]]></content>
   </entry>
   
